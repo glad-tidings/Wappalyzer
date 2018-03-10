@@ -12204,6 +12204,19 @@
       "script": "/media/conv/js/jquery\\.js",
       "website": "http://uknowva.com"
     },
+    "Pars Elecom Portal": {
+      "cats": [
+        1
+      ],
+      "headers": {
+        "X-Powered-By": "Pars Elecom Portal"
+      },
+      "icon": "parselecom.png",
+      "meta": {
+        "generator": "Pars Elecom Portal"
+      },
+      "website": "http://parselecom.net"
+    },
     "vBulletin": {
       "cats": [
         2
