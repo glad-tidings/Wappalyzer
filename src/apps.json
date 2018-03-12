@@ -12684,6 +12684,19 @@
     "57": {
       "name": "Static Site Generator",
       "priority": 1
-    }
+    },
+    "Pars Elecom Portal": {
++      "cats": [
++        1
++      ],
++      "headers": {
++        "X-Powered-By": "Pars Elecom Portal"
++      },
++      "icon": "parselecom.png",
++      "meta": {
++        "generator": "Pars Elecom Portal"
++      },
++      "website": "http://parselecom.net"
++    }
   }
 }
