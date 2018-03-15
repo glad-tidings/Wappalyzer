@@ -12694,7 +12694,7 @@
 +      },
 +      "icon": "parselecom.png",
 +      "meta": {
-+        "generator": "Pars Elecom Portal"
++        "copyright": "Pars Elecom Portal"
 +      },
 +      "website": "http://parselecom.net"
 +    }
