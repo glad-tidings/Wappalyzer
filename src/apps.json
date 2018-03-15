@@ -12215,6 +12215,7 @@
       "meta": {
         "copyright": "Pars Elecom Portal"
       },
+      "implies": [ "Microsoft ASP.NET", "IIS", "Windows Server" ],
       "website": "http://parselecom.net"
     },
     "vBulletin": {
