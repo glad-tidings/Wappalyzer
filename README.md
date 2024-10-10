@@ -16,3 +16,7 @@ technologies used on websites. It detects
 ## Documentation
 
 Please read the [developer documentation](https://www.wappalyzer.com/docs) to get started.
+
+
+
+![](http://visit.parselecom.com/Api/Visit/24/3F888F)
