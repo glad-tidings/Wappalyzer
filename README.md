@@ -19,4 +19,4 @@ Please read the [developer documentation](https://www.wappalyzer.com/docs) to ge
 
 
 
-![](http://visit.parselecom.com/Api/Visit/24/3F888F)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/Wappalyzer/3F888F)
